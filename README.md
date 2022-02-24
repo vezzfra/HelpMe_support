@@ -1,9 +1,9 @@
 # HelpMe: Support Service
 An iOS mutual help application. 
 
-HelpMe born from the idea that the world always had two types of people: people who need help and people who want to help.
+HelpMe was born from the idea that the world always had two categories always interchanging: people who need help and people who want to help.
     
-HelpMe is an application for mutual support between users. It gives to the users the possibility to contact an 'Helper' and talk anonimously about his problems.
+HelpMe is an application for mutual support between users. It gives the users the possibility to contact an 'Helper' and talk anonimously about his/her problems.
 This can be done in three ways:
 
     - Through the HelpLine that was opened on a Whatsapp Professional account;
