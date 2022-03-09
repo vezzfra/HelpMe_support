@@ -22,10 +22,10 @@ HelpMe: Support Service has been on the App Store from 2017 to 2020 when I remov
 
 This code includes: 
 
-    - <img src="https://cdn-icons.flaticon.com/png/128/586/premium/586293.png?token=exp=1646817942~hmac=75ff0e2b7ec2802a953a386b43db96d8" width="15px"> Database access with Parse Platform (deployed on Heroku);
-    - <img src="https://cdn-icons.flaticon.com/png/128/5165/premium/5165249.png?token=exp=1646818176~hmac=45b54ea619914eee3a72ad1d8cb49228" width="15px"> Live location tracking (kept private) in case of emergency;
-    - <img src="https://cdn-icons-png.flaticon.com/128/1060/1060387.png" width="15px"> User authentication;
-    - <img src="https://cdn-icons.flaticon.com/png/512/4755/premium/4755434.png?token=exp=1646818207~hmac=b571a92e24259c3ad540ad7b2e967a70" width="15px"> AES Cryptography;
-    - <img src="https://cdn-icons-png.flaticon.com/128/2950/2950711.png" width="15px"> Live chat (developed without external libraries);
-    - <img src="https://cdn-icons-png.flaticon.com/512/1182/1182769.png" width="15px"> Push notifications (<b>device to device</b>);
+   - <img src="https://cdn-icons.flaticon.com/png/128/586/premium/586293.png?token=exp=1646817942~hmac=75ff0e2b7ec2802a953a386b43db96d8" width="15px"> Database access with Parse Platform (deployed on Heroku);
+   - <img src="https://cdn-icons.flaticon.com/png/128/5165/premium/5165249.png?token=exp=1646818176~hmac=45b54ea619914eee3a72ad1d8cb49228" width="15px"> Live location tracking (kept private) in case of emergency;
+   - <img src="https://cdn-icons-png.flaticon.com/128/1060/1060387.png" width="15px"> User authentication;
+   - <img src="https://cdn-icons.flaticon.com/png/512/4755/premium/4755434.png?token=exp=1646818207~hmac=b571a92e24259c3ad540ad7b2e967a70" width="15px"> AES Cryptography;
+   - <img src="https://cdn-icons-png.flaticon.com/128/2950/2950711.png" width="15px"> Live chat (developed without external libraries);
+   - <img src="https://cdn-icons-png.flaticon.com/512/1182/1182769.png" width="15px"> Push notifications (<b>device to device</b>);
     
